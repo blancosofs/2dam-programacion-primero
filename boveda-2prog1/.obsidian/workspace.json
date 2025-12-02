@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Introducción a Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "203eef89dfda0fa1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "30872618406f2628",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Introducción a Java"
             }
           }
         ]
@@ -94,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8fa9c996de175e49",
@@ -201,6 +185,6 @@
   },
   "active": "42c08c4aea840940",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Introducción a Java.md"
   ]
 }
