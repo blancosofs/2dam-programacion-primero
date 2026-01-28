@@ -24,15 +24,15 @@ public class Bucles {
 
 		for (int filas = 0; filas <= altura; filas++) {
 			for (int columnas = 1; columnas <= filas; columnas++) {
-				for (int i = altura; i >= 1; i--) {
-					for (int j = 1; j <= i; j++) {
-						System.out.print("*");
-					}
-					System.out.println();
-				}
+				System.out.print("*");
 			}
 			System.out.println();
-
+			for (int i = altura; i >= 1; i--) {
+				for (int columnas = 1; columnas <= filas; columnas++) {
+					System.out.print("*");
+				}
+				System.out.println();
+			}
 		}
 
 		// =================================================
